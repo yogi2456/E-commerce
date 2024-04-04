@@ -1,0 +1,5 @@
+npx create-react-app emart
+npm i bootstrap
+npm i font-awesome
+npm i redux react-redux
+npm i react-router-dom
